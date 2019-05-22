@@ -63,7 +63,7 @@
         </configuration>
     </plugin>
 		</plugins>
-		<finalName>boot-drools</finalName>
+		<finalName>MyProject</finalName>
 	</build>
 
 </project>
